@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Welcome to Lean Wiki
-date: {}
+date: 2015-09-16 07:39:40
 categories: lean wiki
 published: true
 ---
