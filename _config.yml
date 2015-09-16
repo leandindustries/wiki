@@ -2,8 +2,9 @@
 title: Lean Wiki
 email: akondamreddy@leanindustries.com
 description: Knowledge is power
-baseurl: "/wiki/" # the subpath of your site, e.g. /blog/
+baseurl: "/wiki" # the subpath of your site, e.g. /blog/
 url: "http://leanindustries.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+highlighter: pygements
