@@ -1,5 +1,4 @@
 ---
----
 layout: post
 title: "Welcome to Lean Wiki"
 date: 2015-09-16 07:15:40
