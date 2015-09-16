@@ -7,4 +7,4 @@ url: "http://leanindustries.github.io" # the base hostname & protocol for your s
 
 # Build settings
 markdown: kramdown
-highlighter: 'pygments' 
+highlighter: pygments
