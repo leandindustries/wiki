@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Prose.io
-date: {}
+title: "Welcome to Wiki "
+date: 2015-09-16T07:15:40.000Z
 categories: lean wiki
 published: true
 ---
