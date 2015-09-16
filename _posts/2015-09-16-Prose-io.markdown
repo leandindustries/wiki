@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Welcome to Wiki "
-date: 2015-09-16T07:15:40.000Z
+title: "Welcome to Wiki"
+date: 2015-09-15 7:15:40
 categories: lean wiki
 published: true
 ---
