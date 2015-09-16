@@ -1,0 +1,11 @@
+---
+published: false
+layout: post
+title: Welcome to Lean Wiki
+date: 2015-09-16T07:15:40.000Z
+categories: lean wiki
+---
+
+## A New Post
+
+Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
