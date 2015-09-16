@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Welcome to Lean Wiki"
-date: 2015-09-16 07:15:40
+title: Prose.io
+date: {}
 categories: lean wiki
-
+published: true
 ---
+
 
 ## Testing Online Editing using Prose.io
 
