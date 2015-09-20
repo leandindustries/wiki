@@ -1,10 +1,11 @@
 ---
 layout: post
 title: Troubleshooting. Testing.
-date: {}
+date: 2015-09-18T15:14:54.000Z
 categories: troubleshooting
 published: true
 ---
+
 
 
 * content
