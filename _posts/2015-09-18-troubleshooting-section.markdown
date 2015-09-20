@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Troubleshooting."
-date:   2015-09-18 11:38:54
+title: Troubleshooting.
+date: {}
 categories: troubleshooting
+published: true
 ---
+
 * content
 {:toc}
 
-
+I just changed the text to demo this for Greg. I hope this works.
 ## Type
 
 ## Summary
