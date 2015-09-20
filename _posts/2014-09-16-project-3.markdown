@@ -1,8 +1,0 @@
----
-layout: post
-title: "Another test post 4"
-date: 2015-09-16 16:45:40
-categories: Testing
----
-
-##This is a test file, I hope I show up in slack. Take number $%$##$5

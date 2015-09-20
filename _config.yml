@@ -1,10 +1,16 @@
 # Site settings
-title: Lean Wiki
-email: akondamreddy@leanindustries.com
-description: Knowledge is power
+title: lean. wiki.
+description: knowledge.
+permalink: /:year/:month/:day/:title/
 baseurl: "/wiki" # the subpath of your site, e.g. /blog/
 url: "http://leandindustries.github.io" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
+
+#baseurl: "/wiki" # the subpath of your site, e.g. /blog/
+#url: "http://leandindustries.github.io" # the base hostname & protocol for your site
+
+paginate: 10
+paginate_path: "page:num"
 highlighter: pygments
