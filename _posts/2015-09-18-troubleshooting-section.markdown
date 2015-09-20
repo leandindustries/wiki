@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Troubleshooting. Testing.
+title: Troubleshooting.
 date: 2015-09-18T15:14:54.000Z
 categories: troubleshooting
 published: true
@@ -10,8 +10,6 @@ published: true
 
 * content
 {:toc}
-
-I just changed the text to demo this for Greg. I hope this works.
 
 ## Type
 
